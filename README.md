@@ -31,13 +31,13 @@ O ***Our World in Data*** é uma plataforma que busca disponibilizar informaçõ
 ### Evolução dos Casos Registrados da COVID-19 no Mundo
 O acompanhamento da evolução dos casos registrados da COVID-19 em escala global revela a trajetória dessa pandemia que afetou profundamente o mundo.
 <p align="center">
-  <img alt="Covid-19" width="80%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/98849409-5620-41f2-9cb4-d022ad2abde6">
+  <img alt="Covid-19" width="90%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/98849409-5620-41f2-9cb4-d022ad2abde6">
 </p>
 
 ### Países com Mais Óbitos devido à COVID-19
 O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **Nesse contexto, é impossível ignorar a magnitude da tragédia que a pandemia deixou no planeta. Essa visualização nos leva a refletir sobre a importância de medidas de prevenção, solidariedade e a busca incessante por soluções para evitar mais perdas.**
 <p align="center">
-  <img alt="Covid-19" width="70%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
+  <img alt="Covid-19" width="80%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
 </p>
 
 ### Evolução dos Óbitos devido à COVID-19 no Brasil
@@ -45,7 +45,7 @@ Abaixo há a evolução dos óbitos devido à COVID-19 no Brasil ao longo do tem
 
 O gráfico mostra que o número de óbitos devido à COVID-19 no Brasil aumentou rapidamente no início da pandemia, atingindo um pico de mais de 4.000 óbitos em um único dia no primeiro semestre de 2021. Apesar de ter continuado alto, o número de óbitos começou a diminuir após o segundo semestre de 2021.
 <p align="center">
-  <img alt="Covid-19" width="80%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/bcc83411-c412-45a6-a12b-75b07cd64bd8">
+  <img alt="Covid-19" width="90%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/bcc83411-c412-45a6-a12b-75b07cd64bd8">
 </p>
 
 ## Meus Artigos Relacionados ao Estudo
