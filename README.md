@@ -45,7 +45,7 @@ Abaixo há a evolução dos óbitos devido à COVID-19 no Brasil ao longo do tem
 
 O gráfico mostra que o número de óbitos devido à COVID-19 no Brasil aumentou rapidamente no início da pandemia, atingindo um pico de mais de 4.000 óbitos em um único dia no primeiro semestre de 2021. Apesar de ter continuado alto, o número de óbitos começou a diminuir após o segundo semestre de 2021.
 <p align="center">
-  <img alt="Covid-19" width="60%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/bcc83411-c412-45a6-a12b-75b07cd64bd8">
+  <img alt="Covid-19" width="80%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/bcc83411-c412-45a6-a12b-75b07cd64bd8">
 </p>
 
 ## Meus Artigos e Projetos Relacionados ao Estudo
