@@ -48,8 +48,8 @@ O gráfico mostra que o número de óbitos devido à COVID-19 no Brasil aumentou
   <img alt="Covid-19" width="90%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/bcc83411-c412-45a6-a12b-75b07cd64bd8">
 </p>
 
-## Meus Artigos Relacionados ao Estudo
- - 
+## Meus Artigos e Projetos Relacionados ao Estudo
+ - [Dashboard em Power BI](https://github.com/HenriqueWF/PBICovid/tree/main)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
