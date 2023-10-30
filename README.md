@@ -9,7 +9,8 @@
 ## Objetivo do Estudo
 Essa é uma análise exploratória dos dados públicos sobre a COVID-19, abordando tanto os números globais quanto os específicos do Brasil. Esse estudo teve como foco os registros de óbitos e casos confirmados da doença
 
-Pode acessar esse [link no Google Colab](https://colab.research.google.com/drive/1StXJISZ95Mz20Fxh3UOa2Ak97McLPsfj?usp=sharing) para acessar o projeto completo.
+**Pode acessar o link abaixo  para acessar o projeto completo:**
+ - [**Projeto no Google Colab**](https://colab.research.google.com/drive/1StXJISZ95Mz20Fxh3UOa2Ak97McLPsfj?usp=sharing)
 
 ## Fonte dos Dados
 Todos os dados usados aqui foram obtidos a partir do dataset do [***Our World in Data***](https://ourworldindata.org/coronavirus), disponibilizado no [GitHub](https://github.com/owid/COVID-19-data/tree/master/public/data).
