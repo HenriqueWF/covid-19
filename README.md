@@ -5,7 +5,6 @@
   <img alt="Covid-19" width="60%" src="https://www.mppi.mp.br/internet/wp-content/uploads/2020/05/coronavirus-fundo-azul.jpg">
 </p>
 
-
 ## Objetivo do Estudo
 Essa é uma análise exploratória dos dados públicos sobre a COVID-19, abordando tanto os números globais quanto os específicos do Brasil. Esse estudo teve como foco os registros de óbitos e casos confirmados da doença
 
@@ -50,7 +49,9 @@ O gráfico mostra que o número de óbitos devido à COVID-19 no Brasil aumentou
 </p>
 
 ## Meus Artigos e Projetos Relacionados ao Estudo
- - [Dashboard em Power BI](https://github.com/HenriqueWF/PBICovid/tree/main) 
+ - [**Matplotlib e Storytelling com Dados - Pt. I**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
+ - [**Matplotlib e Storytelling com Dados - Pt. II**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
+ - [**Dashboard em Power BI**](https://github.com/HenriqueWF/PBICovid/tree/main) 
 <p align="center">
   <img alt="Covid-19" width="60%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
 </p>
